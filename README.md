@@ -1,4 +1,4 @@
-# Arduino Output Expansion Using Dual 74HC595
+# Add Output and Input Shift Register
 
 ## 🔍 Overview
 This project expands the output capability of an Arduino by cascading two 74HC595 shift registers. Using serial-to-parallel conversion, the Arduino can control many outputs using only a few pins—ideal for LEDs, displays, and automation tasks.
